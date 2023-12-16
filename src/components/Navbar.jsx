@@ -30,7 +30,7 @@ const Navbar = () => {
     </ul>
   </div>
   <div className="navbar-end">
-    <Link to = 'https://drive.google.com/file/d/1Kk8gsC8NQBHd1Bdtyc1h5b4PmWVM1kJN/view?usp=sharing'>
+    <Link to = 'https://drive.google.com/file/d/1hOkkHx9gMwL2WGpxPkAvBDbgtV-Nqi_P/view'>
     <button className="btn bg-gradient-to-r from-red-500  to-violet-500">Download CV</button>
     </Link>
   </div>
